@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /***************************************************************************/
 /*                               micro-Max,                                */
 /* A chess program smaller than 2KB (of non-blank source), by H.G. Muller  */
